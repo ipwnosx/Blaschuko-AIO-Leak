@@ -1,0 +1,59 @@
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.exe.config
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.exe
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.pdb
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\bin\Debug\Leaf.xNet.dll
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\bin\Debug\xNet-Ameliorated.dll
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csproj.CopyComplete
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.exe
+C:\Users\HP\source\repos\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.pdb
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.exe.config
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.exe
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.pdb
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csprojAssemblyReference.cache
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csproj.CoreCompileInputs.cache
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csproj.CopyComplete
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.exe
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.pdb
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\bin\Debug\Colorful.Console.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO\Blaschuko AIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csproj.CoreCompileInputs.cache
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.exe
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.pdb
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.exe.config
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.exe
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Blaschuko AIO.pdb
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Colorful.Console.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Core.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Interactive.Async.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Linq.Async.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Core.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Interactive.Async.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Linq.Async.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csproj.CopyComplete
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\obj\Debug\Blaschuko AIO.csprojAssemblyReference.cache
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\SafeRequest.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Anarchy.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Leaf.xNet.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\websocket-sharp.dll
+C:\Users\Blaschuko\Downloads\Blaschuko_AIO\Blaschuko AIO_2\Blaschuko AIO\Blaschuko AIO\bin\Debug\Leaf.xNet.xml
